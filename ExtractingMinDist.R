@@ -7,8 +7,8 @@
 ### Arguments ###
 
 # tableSites : a table with (minimum):
-# -> a column named "Latitude" with the site latitude in WGS82
-# -> a column named "Longitude" with the site longitude in WGS82
+# -> a column named "Latitude" with the site latitude in WGS84
+# -> a column named "Longitude" with the site longitude in WGS84
 # -> a column with the sites unique IDs
 
 # Col_ID : column name of the point layer containing the site IDs (ex : "CODE_SITE")
